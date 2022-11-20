@@ -63,14 +63,14 @@ global.location = "Pakistan, Sindh, Hyderabad" //ur location
 //bot bomdy 
 global.owner = ['923401966942']
 global.ownertag = '923401966942' //ur tag number
-global.botname = 'HSM-Squad Bot' //ur bot name
+global.botname = 'SMH-Squad Bot' //ur bot name
 global.linkz = "https://youtu.be/OLqWdiP-SV4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.gcuh.edu.pk" //ur website to be displayed
 global.botscript = 'https://github.com/SMH-Squad' //script link
 global.reactmoji = "🫡" //ur menu react emoji
 global.themeemoji = "😐️" //ur theme emoji
-global.packname = "HSM-Squad Bot Stickers\n\n\n\n\n\n\n\n\n\n\n😉😉😉 " //ur sticker watermark packname
-global.author = "HSM-Squad" //ur sticker watermark author
+global.packname = "SMH-Squad Bot Stickers\n\n\n\n\n\n\n\n\n\n\n😉😉😉 " //ur sticker watermark packname
+global.author = "SMH-Squad" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
