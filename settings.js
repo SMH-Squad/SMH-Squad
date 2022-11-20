@@ -62,7 +62,7 @@ global.location = "Pakistan, Sindh, Hyderabad" //ur location
 
 //bot bomdy 
 global.owner = ['923401966942']
-global.ownertag = '92340196642' //ur tag number
+global.ownertag = '923401966942' //ur tag number
 global.botname = 'HSM-Squad Bot' //ur bot name
 global.linkz = "https://youtu.be/OLqWdiP-SV4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.gcuh.edu.pk" //ur website to be displayed
