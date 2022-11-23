@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923121929845'] //ur owner number
-global.ownername = "Blackfish" //ur owner name
-global.ytname = "Blackfish" //ur yt chanel name
-global.socialm = "Blackfish" //ur github or insta name
+global.vcardowner = ['923342345892'] //ur owner number
+global.ownername = "Cypher-Bot" //ur owner name
+global.ytname = "Cypher-Bot" //ur yt chanel name
+global.socialm = "Cyoher-Bot" //ur github or insta name
 global.location = "Pakistan, Sindh, Hyderabad" //ur location
 
 //bot bomdy 
-global.owner = ['923401966942']
-global.ownertag = '923401966942' //ur tag number
-global.botname = 'SMH-Squad Bot' //ur bot name
+global.owner = ['923121929845']
+global.ownertag = '923342345892' //ur tag number
+global.botname = 'Cypher-Bot' //ur bot name
 global.linkz = "https://youtu.be/OLqWdiP-SV4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.gcuh.edu.pk" //ur website to be displayed
 global.botscript = 'https://github.com/SMH-Squad' //script link
 global.reactmoji = "🫡" //ur menu react emoji
 global.themeemoji = "😐️" //ur theme emoji
-global.packname = "SMH-Squad Bot Stickers\n\n\n\n\n\n\n\n\n\n\n😉😉😉 " //ur sticker watermark packname
-global.author = "SMH-Squad" //ur sticker watermark author
+global.packname = "Cypher-Bot Stickers\n\n\n\n\n\n\n\n\n\n\n😉😉😉 " //ur sticker watermark packname
+global.author = "Cypher-Bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923401966942'] //ur premium numbers
+global.premium = ['923342345892'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -85,14 +85,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done Bhai hogya ✓',
+    success: 'Done Dear ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Ruko Zara Sabar kro...',
+    wait: 'Please Wait Sir...',
     linkm: 'link kidhr he?',
     error: 'Error agya yar!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
